@@ -16,7 +16,7 @@ const Navbar = () => {
               <div className="size-9 rounded-lg bg-primary/10 flex items-center justify-center">
                 <MessageSquare className="w-5 h-5 text-primary" />
               </div>
-              <h1 className="text-lg font-bold">QucikTalk</h1>
+              <h1 className="text-lg font-bold">QuickTalk</h1>
             </Link>
           </div>
 
